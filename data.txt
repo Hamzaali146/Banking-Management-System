@@ -1,0 +1,2 @@
+moatasim,qureshi,moatasimqureshi,moat,qur,1000
+ahmed,khan,ahmedkhan,ahmed,hiheelo,8300
